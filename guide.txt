@@ -1,0 +1,7 @@
+sudo apt install redis-server
+
+sudo systemctl start redis
+redis-cli ping
+
+redis-cli flushall   #You can clear Redis by running
+

@@ -1,0 +1,6 @@
+2024-12-08 23:27:29,714 - INFO - Starting the Celery task
+2024-12-08 23:39:27,292 - ERROR - Error occurred: 'tasks.add'
+2024-12-08 23:39:40,099 - INFO - Starting the Celery task
+2024-12-08 23:39:40,139 - ERROR - Error occurred: 'tasks.add'
+2024-12-08 23:41:53,763 - INFO - Starting the Celery task
+2024-12-08 23:41:53,816 - ERROR - Error occurred: 'tasks.add'
